@@ -1,2 +1,2 @@
-# reactJS
+# reactguru
 ReactJS Training

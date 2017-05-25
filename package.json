@@ -1,0 +1,24 @@
+{
+  "name": "reactguru",
+  "version": "1.0.0",
+  "description": "ReactJS Training",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnicutCodeGuru/reactguru.git"
+  },
+  "author": "Raj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnicutCodeGuru/reactguru/issues"
+  },
+  "homepage": "https://github.com/AnicutCodeGuru/reactguru#readme",
+  "dependencies": {
+    "express": "^4.15.3",
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4"
+  }
+}
